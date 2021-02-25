@@ -22,8 +22,8 @@ nav a:hover{
 
 main {
     height: 450px;
-    background: var(--primary-color);
-    background-image: url('/assets/main-desktop-ground.svg');
+    background: #6277dfca;
+    background-image: url('./assets/main-desktop-ground.svg');
     background-repeat: no-repeat;
     flex-direction: column;
     justify-content: center;
